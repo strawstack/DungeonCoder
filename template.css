@@ -1,0 +1,20 @@
+body{
+  /*background: black;*/
+}
+.game-view{
+  padding: 0;
+  height: 50vh;
+
+}
+.editor-view{
+  background-color: #111;
+  height: 50vh;
+  overflow: scroll;
+
+}
+.log-view{
+  background-color: #444;
+  padding: 0;
+  height: 50vh;
+  overflow: scroll;
+}
