@@ -1,9 +1,11 @@
 # Dungeon
 
-# dev notes
+Approach a door, code a solution, move to the next room, find the exit.
 
-make more doors
-give feedback when user preforms any action. Espically code submission
-change startup function to a tutorial template
-place a gold in the end room
-perhaps change color of door text to indicate appearance to player
+# Live Demo
+
+![](#)
+
+# Screenshot
+
+![](./screenshot.png)
